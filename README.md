@@ -88,6 +88,7 @@ http://localhost:3000
   - PKCS7 Signature Generation: A digital signature is created using the PKCS7 standard.
   - Server-Side Validation: The signature is sent to a /sign endpoint for processing.
   - Real-Time Feedback: The signature validation status is displayed immediately.
+  - ![Web SDK digital sign using singing service](https://github.com/user-attachments/assets/769e4f30-32cd-49a6-9e2b-a142c8086957)
 
 
 ## 🔧 Customization
