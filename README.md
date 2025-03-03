@@ -52,7 +52,10 @@ VITE_lkey=your_pspdfkit_license_key
 ```
 Nutrient PDF Viewer with Digital Signatures/
 │── public/
-│   ├── Good.pdf                # Default PDF file (optional)
+│   ├── download.pdf                # Default PDF file (optional)
+│   ├── nutirnet-viewer-lib
+│   ├── nutirnet-viewer.js
+│   ├── index.d.ts
 │── src/
 │   ├── components/
 │   │   ├── nutrientpdfviewer.jsx   # PDF viewer with digital signature integration
