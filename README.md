@@ -26,11 +26,11 @@ A valid PSPDFKit license key (trial or full version)
 Clone the Repository
 
 ```
-git clone <repository-url>
-cd nutrient-vite-clientside-digital-sigature
-Install Dependencies
+git clone https://github.com/Narashiman-K/Web-DigitalSignature.git
+cd Web-DigitalSignature
 ```
 
+Install Dependencies
 ```
 npm install
 # or
