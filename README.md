@@ -1,5 +1,5 @@
 # Web-DigitalSignature# Nutrient PDF Viewer with Digital Signatures
-This project provides a React-based PDF viewer application that allows users to view PDF documents and add digital signatures using Nutrient. You need to host the signing-service(https://github.com/PSPDFKit/pspdfkit-web-signing-service-example.git) with digital signature certificates. Built with Vite and React, it features client-side digital signature capabilities for secure document processing.
+This project provides a React-based PDF viewer application that allows users to view PDF documents and add digital signatures using Nutrient. You need to host the [signing-service](https://github.com/PSPDFKit/pspdfkit-web-signing-service-example.git) with digital signature certificates. Built with Vite and React, it features client-side digital signature capabilities for secure document processing.
 
 ## 📌 Features
 
@@ -12,10 +12,9 @@ This project provides a React-based PDF viewer application that allows users to 
 
 ## 🚀 Getting Started
 
-```
 Prerequisites
 Ensure you have the following installed:
-
+```
 Node.js (v14 or higher recommended)
 npm or yarn
 A valid PSPDFKit license key (trial or full version)
