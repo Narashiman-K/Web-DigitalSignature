@@ -3,12 +3,12 @@ This project provides a React-based PDF viewer application that allows users to 
 
 ## 📌 Features
 
-PDF Viewing: Load and display PDF documents with a modern interface.
-Digital Signatures: Sign PDFs using secure PKCS7 digital signatures.
-File Upload: Open and view different PDF documents using a file picker.
-Real-Time Validation: Automatically display digital signature status.
-Custom Toolbar: Access a dedicated "Digitally Sign" button for signing documents.
-Secure Signing: Implements secure hash-based signing using SHA-256.
+- PDF Viewing: Load and display PDF documents with a modern interface.
+- Digital Signatures: Sign PDFs using secure PKCS7 digital signatures.
+- File Upload: Open and view different PDF documents using a file picker.
+- Real-Time Validation: Automatically display digital signature status.
+- Custom Toolbar: Access a dedicated "Digitally Sign" button for signing documents.
+- Secure Signing: Implements secure hash-based signing using SHA-256.
 
 ## 🚀 Getting Started
 
